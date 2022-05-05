@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe1F4176cc14065a27bB2f9B8D7F47E57836B8fd8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe1f4176cc14065a27bb2f9b8d7f47e57836b8fd8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "ALBABCABC",
+  "SYMBOL": "ALBABC",
+  "MAX_SUPPLY": 18,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/albabcabc",
+  "SHOW_BACKGROUND": true
+}
