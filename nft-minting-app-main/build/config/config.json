@@ -10,7 +10,7 @@
   "SYMBOL": "ALBABC",
   "MAX_SUPPLY": 18,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 0.05,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/albabcabc",
